@@ -24,6 +24,18 @@ This is exactly that part of the movie: [YouTube Link](https://youtu.be/Nwvnoo5e
 
 ## See more
 
+### SaraKIT - Self Balancing Robot
+Example of use, demonstration of the speed and power of BLDC motors<br>
+<div align="center">
+  <a href="https://saraai.com/_SaraKIT/video/SaraKIT_SelfBalancingRobot.mp4"><img src="https://saraai.com/_SaraKIT/images/sbr.jpg" width=50% alt="IMAGE ALT TEXT"></a>
+</div>
+<br>
+
+## Video with a ready example using Lego bricks:
+<div align="center">
+  <a href="https://saraai.com/_SaraKIT/video/SaraKIT_Lego_RC_Car.mp4"><img src="https://saraai.com/_SaraKIT/images/LegoRCCar.jpg" width=50% alt="IMAGE ALT TEXT"></a>
+</div>
+
 ### SaraKIT - Color Tracking:
 
 ![SaraKIT_ColorTracking](https://github.com/SaraEye/SaraKIT-Face-Tracking-MediaPipe-Raspberry-Pi-64bit/assets/35704910/7120ee8a-7612-4d82-8a3c-8cf38c451009)
