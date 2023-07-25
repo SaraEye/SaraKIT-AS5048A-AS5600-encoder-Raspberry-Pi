@@ -27,7 +27,7 @@ This is exactly that part of the movie: [YouTube Link](https://youtu.be/Nwvnoo5e
 ### SaraKIT - Self Balancing Robot
 Example of use, demonstration of the speed and power of BLDC motors<br>
 <div align="center">
-  <a href="https://saraai.com/_SaraKIT/video/SaraKIT_SelfBalancingRobot.mp4"><img src="https://saraai.com/_SaraKIT/images/sbr.jpg" width=50% alt="IMAGE ALT TEXT"></a>
+  <a href="https://saraai.com/_SaraKIT/video/SaraKIT_Self_Balancing_Robot_with_Raspberry_Pi4.mp4"><img src="https://saraai.com/_SaraKIT/images/sbr.jpg" width=50% alt="IMAGE ALT TEXT"></a>
 </div>
 <br>
 
