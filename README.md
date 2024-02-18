@@ -14,7 +14,10 @@ cd EncoderDemo
 make
 ./gimbals
 ```
-<span style="color: red;">#Attention, BLDC motors get very hot, do not leave them running at too high power - there is a risk of burns and fire!</span>
+
+```diff
+#Attention, BLDC motors get very hot, do not leave them running at too high power - there is a risk of burns and fire!
+```
 
 This is exactly that part of the movie: [YouTube Link](https://youtu.be/Nwvnoo5efzE?t=607)
 
